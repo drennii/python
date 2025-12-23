@@ -4,7 +4,7 @@ data={
 'Name':['Alice','Bob',]'Charlie',]
 'Age' :[25,30,22] ,
 'City':['New York','San Francisco','Los Angelos']
-}
+}ithj
 
 
 df=pd.DataFrame(data)
